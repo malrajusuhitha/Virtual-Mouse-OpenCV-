@@ -37,20 +37,20 @@ It uses hand-tracking to allow users to perform **mouse actions** such as cursor
 git clone https://github.com/malrajusuhitha/virtual-mouse-opencv.git
 cd virtual-mouse-opencv
 ```
-### **2.Install Dependencies**
+### **2. Install Dependencies**
 ```bash
 pip install opencv-python mediapipe numpy pyautogui
 ```
 ## ▶️How to Run
-1.Connect your webcam.
+1. Connect your webcam.
 
-2.Run the script:
+2. Run the script:
 ```bash
 python virtual_mouse.py
 ```
-3.A window named "Virtual Mouse" will open.
+3. A window named "Virtual Mouse" will open.
 
-4.Use your hand gestures to control the cursor:
+4. Use your hand gestures to control the cursor:
 Pinch (Index + Thumb) – Drag & drop.
 Thumb open (others closed) – Left click.
 Pinky up – Right click.
@@ -68,11 +68,11 @@ virtual-mouse-opencv/
 ```
 
 ## 📌 Notes
-1.The script runs at 30 FPS and uses MediaPipe for accurate hand landmark detection.
+1. The script runs at 30 FPS and uses MediaPipe for accurate hand landmark detection.
 
-2.Use a well-lit environment for better hand tracking.
+2. Use a well-lit environment for better hand tracking.
 
-3.Cursor smoothness and gesture sensitivity can be adjusted in the script (smooth_factor, zoom_threshold, etc.).
+3. Cursor smoothness and gesture sensitivity can be adjusted in the script (smooth_factor, zoom_threshold, etc.).
 
 ## 🙌 Contributing
 Feel free to fork this repo, raise issues, and submit pull requests.

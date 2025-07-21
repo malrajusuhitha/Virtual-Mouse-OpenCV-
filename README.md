@@ -51,12 +51,19 @@ python virtual_mouse.py
 3. A window named "Virtual Mouse" will open.
 
 4. Use your hand gestures to control the cursor:
+
 Pinch (Index + Thumb) – Drag & drop.
+
 Thumb open (others closed) – Left click.
+
 Pinky up – Right click.
+
 Two fingers up/down – Scroll.
+
 Zoom gesture – Zoom in/out (Ctrl + +/-).
+
 Index double click – Select area.
+
 Press q to quit.
 
 ## 📂 Project Structure
@@ -64,7 +71,7 @@ Press q to quit.
 
 virtual-mouse-opencv/
 │-- cursor.py        # Main program file
-│-- README.md               # Project documentation
+│-- README.md        # Project documentation
 ```
 
 ## 📌 Notes

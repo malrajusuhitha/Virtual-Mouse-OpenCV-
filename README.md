@@ -41,7 +41,7 @@ cd virtual-mouse-opencv
 ```bash
 pip install opencv-python mediapipe numpy pyautogui
 ```
-##▶️How to Run
+## ▶️How to Run
 1.Connect your webcam.
 
 2.Run the script:

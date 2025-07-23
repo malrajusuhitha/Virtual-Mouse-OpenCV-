@@ -46,7 +46,7 @@ pip install opencv-python mediapipe numpy pyautogui
 
 2. Run the script:
 ```bash
-python virtual_mouse.py
+python cursor.py
 ```
 3. A window named "Virtual Mouse" will open.
 
